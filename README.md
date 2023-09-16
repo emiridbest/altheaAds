@@ -13,3 +13,6 @@ Webmasters, bloggers, technical writers... who wishes to earn ALT tokens come ov
 This generates a script tag of code which can be pasted in the webpages/ post.
 
 Activities namely clicks and impression is then monitored and duly rewarded.
+
+
+Watch demo @ https://www.loom.com/share/c407c80885794ef8817b85bab5d86ac9
