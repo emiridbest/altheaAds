@@ -94,3 +94,9 @@ We welcome contributions from the community to make AltheaAds even better. To co
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+![Screenshot from 2023-09-16 16-44-58](https://github.com/emiridbest/altheaAds/assets/6362475/5962494d-09fb-4b2a-a37c-6bb2f085c4c8)
+
+
+![Screenshot from 2023-09-16 16-45-08](https://github.com/emiridbest/altheaAds/assets/6362475/f04f99ce-ba46-4441-95b0-0ce988c5298f)
+
