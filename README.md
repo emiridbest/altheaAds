@@ -1,71 +1,96 @@
-# Getting Started with Create React App
+Watch demo @ https://www.loom.com/share/c407c80885794ef8817b85bab5d86ac9
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+# AltheaAds
 
-### `npm start`
+![altheaLogo](https://github.com/emiridbest/altheaAds/assets/6362475/86919e38-8e10-443f-854c-35fe65bf1d46)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+AltheaAds is an innovative solution that utilizes an EVM-based backend to monitor ads for clicks and impressions. Our mission is to promote Althea blockchain solutions within the ecosystem through the use of NFTs displayed as ads.
 
-### `npm test`
+## Table of Contents
+- [Problem Statement](#problem-statement)
+- [Solution](#solution)
+- [Considerations](#considerations)
+- [Challenges Encountered](#challenges-encountered)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Problem Statement
 
-### `npm run build`
+In today's digital landscape, spreading the word about blockchain solutions is essential. However, traditional advertising methods are often costly and inefficient. AltheaAds addresses this problem by offering a unique approach to promoting Althea blockchain solutions through NFT-based ads.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This is an innovative solution utilising an evm based backend to monitor ads for clicks and impression. The purpose of these Ads is to spread the word on the solutions Althea blockchain is bringing to the ecosystem.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+It utilises NFTs which are displayed as ads.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Solution
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+AltheaAds leverages the power of NFTs to create eye-catching ads that are not only attractive but also valuable. Our solution aims to:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Increase awareness about Althea blockchain solutions.
+- Provide a cost-effective and efficient advertising platform.
+- Foster the adoption of NFT technology in the advertising industry.
+- Provide website owners opprtunity to earn ERC20 tokens that can be traded
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Considerations
 
-## Learn More
+When developing AltheaAds, we took into consideration the following factors:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **User Privacy**: We prioritize user privacy and ensure that the data collected for ad monitoring is handled securely and anonymously.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Scalability**: Our solution is designed to scale with the growing demand for advertising on the Althea blockchain.
 
-### Code Splitting
+- **Ecosystem Integration**: AltheaAds seamlessly integrates with the Althea blockchain ecosystem, ensuring a cohesive experience for users.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Challenges Encountered
 
-### Analyzing the Bundle Size
+During the development of AltheaAds, we faced several challenges, including:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **Smart Contract Security**: Ensuring the security of our smart contracts was a top priority to protect user assets.
 
-### Making a Progressive Web App
+- **User Engagement**: Encouraging users to interact with NFT-based ads required creative strategies.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Getting Started
 
-### Advanced Configuration
+To get started with AltheaAds, follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. Clone this repository.
+2. Install the required dependencies.
+3. Add env  variables via a .env file in the root directory
+- PINATA_API_KEY=
+- PINATA_API_SECRET=
+- NEXT_PUBLIC_PINATA_JWT_TOKEN=
 
-### Deployment
+5. Run the application.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# ifi
+Ads owner uploads infogarphic NFTs about Altheas layer-1 blockchain solutions on the platform. The are store in a decentralised storage powered by pinata.
+
+Webmasters, bloggers, technical writers... who wishes to earn ALT tokens come over to the site, click on the get random ads button.
+
+This generates a script tag of code which can be pasted in the webpages/ post.
+
+Activities namely clicks and impression is then monitored and duly rewarded.
+
+Once AltheaAds is up and running, you can:
+
+- Create and deploy NFT-based ads.
+- Monitor ad performance and analytics.
+- Engage with the Althea blockchain community.
+
+
+## Contributing
+
+We welcome contributions from the community to make AltheaAds even better. To contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).

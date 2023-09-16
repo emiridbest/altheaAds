@@ -1,6 +1,10 @@
 {
   "name": "ifi",
+<<<<<<< HEAD
   "version": "0.1.0",
+=======
+ "version": "0.1.0",
+>>>>>>> a9b06e4f718b76bd3a4b6022ef1fc78d237beb09
 	"private": true,
 	"dependencies": {
 		"@celo-tools/use-contractkit": "^3.1.0",
@@ -50,4 +54,8 @@
 	"resolutions": {
 		"react-error-overlay": "6.0.9"
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a9b06e4f718b76bd3a4b6022ef1fc78d237beb09
